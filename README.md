@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sterific
-- 👀 I’m interested in Web-Development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Web-Designing
+- 👀 I’m Sofrware Developer
+- 🌱 I’m currently Working in Fullstack Software Development
+- 💞️ I’m looking to collaborate across the world.
 - 📫 How to reach me : email at subhamdey.1999@gmail.com
 
 <!---
